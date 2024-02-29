@@ -1,0 +1,16 @@
+C:\Users\תכנות\Desktop\iri\תכנות\פרקטיקוד\p2\p2\bin\Debug\net7.0\p2.exe
+C:\Users\תכנות\Desktop\iri\תכנות\פרקטיקוד\p2\p2\bin\Debug\net7.0\p2.deps.json
+C:\Users\תכנות\Desktop\iri\תכנות\פרקטיקוד\p2\p2\bin\Debug\net7.0\p2.runtimeconfig.json
+C:\Users\תכנות\Desktop\iri\תכנות\פרקטיקוד\p2\p2\bin\Debug\net7.0\p2.dll
+C:\Users\תכנות\Desktop\iri\תכנות\פרקטיקוד\p2\p2\bin\Debug\net7.0\p2.pdb
+C:\Users\תכנות\Desktop\iri\תכנות\פרקטיקוד\p2\p2\obj\Debug\net7.0\p2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תכנות\Desktop\iri\תכנות\פרקטיקוד\p2\p2\obj\Debug\net7.0\p2.AssemblyInfoInputs.cache
+C:\Users\תכנות\Desktop\iri\תכנות\פרקטיקוד\p2\p2\obj\Debug\net7.0\p2.AssemblyInfo.cs
+C:\Users\תכנות\Desktop\iri\תכנות\פרקטיקוד\p2\p2\obj\Debug\net7.0\p2.csproj.CoreCompileInputs.cache
+C:\Users\תכנות\Desktop\iri\תכנות\פרקטיקוד\p2\p2\obj\Debug\net7.0\p2.dll
+C:\Users\תכנות\Desktop\iri\תכנות\פרקטיקוד\p2\p2\obj\Debug\net7.0\refint\p2.dll
+C:\Users\תכנות\Desktop\iri\תכנות\פרקטיקוד\p2\p2\obj\Debug\net7.0\p2.pdb
+C:\Users\תכנות\Desktop\iri\תכנות\פרקטיקוד\p2\p2\obj\Debug\net7.0\p2.genruntimeconfig.cache
+C:\Users\תכנות\Desktop\iri\תכנות\פרקטיקוד\p2\p2\obj\Debug\net7.0\ref\p2.dll
+C:\Users\תכנות\Desktop\iri\תכנות\פרקטיקוד\p2\p2\bin\Debug\net7.0\seed\HtmlTags.json
+C:\Users\תכנות\Desktop\iri\תכנות\פרקטיקוד\p2\p2\bin\Debug\net7.0\seed\HtmlVoidTags.json
